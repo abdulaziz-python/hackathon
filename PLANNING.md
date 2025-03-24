@@ -49,3 +49,6 @@
 6. Real-vaqt bildirishnomalari uchun Django Channels va WebSockets integratsiyasi.
 7. Vazifa navbati uchun Django Celery va RabbitMQ integratsiyasi.
 8. Frontendni backendga integratsiya qilish va testlash.
+
+# https://t.me/avengerdev
+Assalomu alaykum.
